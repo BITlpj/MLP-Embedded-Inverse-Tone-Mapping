@@ -39,7 +39,7 @@ Follow the format of the provided JSON example to create your own JSON file that
 ### Example JSON Format
 
 ```json
-["abp1_autumnwoods_000.jpg", "abp1_bamboo_000.jpg",..., "uzbek_044.jpg", "uzbek_054.jpg", "uzbek_064.jpg", "venice_006.jpg", "venice_016.jpg", "winter_002.jpg", "winter_012.jpg",]
+["abp1_autumnwoods_000.jpg", "abp1_bamboo_000.jpg", "uzbek_044.jpg", "uzbek_054.jpg", "uzbek_064.jpg", "venice_006.jpg", "venice_016.jpg", "winter_002.jpg", "winter_012.jpg",]
 
 ```
 
